@@ -141,16 +141,16 @@
       "url": "https://www.opswat.com/",
       "startDate": "2024-04-15",
       "endDate": "2024-08-01",
-      "summary": "Led page design and account systems.",
+      "summary": "During my internship at OPSWAT, I focused on enhancing the Device Compliance features of the OPSWAT Endpoint SDK, which supports multiple operating systems.",
       "highlights": [
-        "Completed 95% of project content."
+        "Collaborated effectively with cross-functional teams to meet project deadlines and ensure compliance with development standards."
       ],
       "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
+        "Developing and testing Device Compliance feature of OPSWAT Endpoint SDK on Linux, MacOS, Windows.",
+        "Writing script to get Endpoint Device information."
       ],
       "achievements": [
-        "Ensured smooth project execution."
+        "Ensured smooth project execution by maintaining high-quality code standards and meeting all project deadlines."
       ],
       "skills": {
         "C": "mdi:language-c",
