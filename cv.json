@@ -1,0 +1,458 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Nguyễn Sĩ Minh",
+    "label": "Software Engineer",
+    "image": "/avatar.png",
+    "email": "ngsimi.work@gmail.com",
+    "url": "https://www.gcxstudio.cn",
+    "summary": "As a highly motivated and passionate senior student majoring in Computer Science at the University of Science, VNUHCM, I have developed a foundation in software development, with strong knowledge in C++, and Java and proficiency in English, I am excited to apply my knowledge in a practical environment and continue developing my skills as a Software Engineer position. ",
+    "theme": "orange",
+    "location": {
+      "address": "District 5",
+      "city": "Ho Chi Minh",
+      "countryCode": "VN",
+      "region": "Vietnam"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "icon": "mdi:linkedin",
+        "username": "simi-larity",
+        "url": "https://www.linkedin.com/in/simi-larity/"
+      },
+      {
+        "network": "Facebook",
+        "icon": "mdi:facebook",
+        "username": "simi.larity.08",
+        "url": "https://www.facebook.com/simi.larity.08/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "minhvip08",
+        "url": "https://github.com/minhvip08/"
+      }
+    ],
+    "beian": {
+      "mint": "",
+      "police": ""
+    }
+  },
+  "images": {
+    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "list": [
+      {
+        "image": "https://www.dropbox.com/scl/fi/9invk89kb0h53n3kgow5v/440197314_827706316044148_1654588921591346027_n.jpg?rlkey=4vqtw52xgkck180udszbhj2iu&st=j4dc662e&dl=0",
+        "alt": "EMC_pool",
+        "desc": "Shot on EMC Pool. 2024.09.27"
+      },
+      {
+        "image": "https://drive.google.com/file/d/1zVQavognuhWfLub4_6A5vuVVhGLT5X9",
+        "alt": "Opswater",
+        "desc": "First day at Opswater. 2024.04.15"
+      },
+      {
+        "image": "https://drive.google.com/file/d/1zVQavognuhWfLub4_6A5vuVVhGLT5X9E",
+        "alt": "vinhhi",
+        "desc": "Vinh Hi. 2024.06.15"
+      },
+      {
+        "image": "https://drive.google.com/file/d/1JoqE-AUu9WR9UwI0tCatlotz7E-qREop/view?usp=drive_link",
+        "alt": "My School",
+        "desc": "My School. 2024.06.15"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Ho Chi Minh City University of Science",
+      "url": "https://hcmus.edu.vn/",
+      "area": "Student",
+      "studyType": "Full-time student",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "gpa": "3.85/4.0",
+      "major": "Advanced Program in Computer Science"
+    }, 
+    {
+      "institution": "Luong The Vinh High School for the Gifted - Dong Nai Province",
+      "url": "",
+      "area": "Student",
+      "studyType": "Major in Mathematics",
+      "startDate": "2018-09-01",
+      "endDate": "2021-06-01",
+      "major": "Mathematics",
+      "gpa": "9.0/10"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "IELTS 6.0",
+      "date": "2021-04-14",
+      "url": "",
+      "issuer": "British Council"
+    },
+    {
+      "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+      "date": "2024-05-01",
+      "url": "https://www.credly.com/badges/d58f3199-7e82-450c-bc6f-0793fced9f59/linked_in_profile",
+      "issuer": "Amazon Web Services Training and Certification"
+    }
+  ],
+  "work": [
+    {
+      "name": "BOSCH GLOBAL SOFTWARE TECHNOLOGIES COMPANY LIMITED",
+      "position": "Embedded Software Engineer",
+      "location_type": "Internship",
+      "location": "Ho Chi Minh City",
+      "url": "https://www.bosch.com.vn/our-company/bosch-in-vietnam/ho-chi-minh-city-rbvh/",
+      "startDate": "2024-8-15",
+      "endDate": null,
+      "summary": "Currently working as part of the Update Firmware Team, focusing on software development for car multimedia systems within Linux and Android environments.",
+      "highlights": [
+        "Enhanced internal workflow efficiency by 30%."
+      ],
+      "responsibilities": [
+        "Be involved in requirement analysis, design. ",
+        "Support testing, debugging, maintenance and problem solving.",
+        "Involved to develop software in Linux/Android-based system for Car Multimedia using C/C++ Language and AutoSar framework. "
+      ],
+      "achievements": [
+        "Implemented a delta generation tool and verification code system."
+      ],
+      "skills": {
+        "C": "mdi:language-c",
+        "C++": "mdi:language-cpp",
+        "Linux": "simple-icons:linux",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Shell": "simple-icons:shell",
+        "Jira": "simple-icons:jira"
+      }
+    },
+    {
+      "name": "OPSWAT SOFTWARE VIETNAM LIMITED LIABILITY COMPANY",
+      "position": "Software Engineer",
+      "location_type": "Internship",
+      "location": "Ho Chi Minh City",
+      "url": "https://www.opswat.com/",
+      "startDate": "2024-04-15",
+      "endDate": "2024-08-01",
+      "summary": "Led page design and account systems.",
+      "highlights": [
+        "Completed 95% of project content."
+      ],
+      "responsibilities": [
+        "Developed complete pages.",
+        "Integrated user-facing elements with server-side logic."
+      ],
+      "achievements": [
+        "Ensured smooth project execution."
+      ],
+      "skills": {
+        "C": "mdi:language-c",
+        "C++": "mdi:language-cpp",
+        "Linux": "simple-icons:linux",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Shell": "simple-icons:shell",
+        "Jira": "simple-icons:jira"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "C++",
+      "icon": "mdi:language-cpp",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Server"
+      ]
+    },
+    {
+      "name": "Linux Programming",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Server"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon": "mdi:language-java",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Server"
+      ]
+    },
+    {
+      "name": "Spring",
+      "icon": "simple-icons:spring",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Server"
+      ]
+    },
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "SQL",
+      "icon": "simple-icons:mysql",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "icon": "simple-icons:nestjs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "IOC"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
+      "level": "Intermediate",
+      "keywords": [
+        "Serverless",
+        "Static Site Hosting"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Vietnamese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "MiraHikari",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Cinematrix",
+      "image": {
+      },
+      "isActive": true,
+      "description": "A free media-sharing platform with robust streaming capabilities.",
+      "highlights": [
+        "A media-sharing platform with robust streaming capabilities. Media files are stored on a Backblaze S3-compatible cloud storage, cached, and served via the Cloudflare CDN.",
+        "The application was developed as a monolithic web application. "
+      ],
+      "url": "https://github.com/minhvip08/Cinematrix",
+      "github": "https://github.com/minhvip08/Cinematrix",
+      "skills": {
+        "Java": "mdi:language-java",
+        "Spring": "simple-icons:spring",
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "React": "mdi:react",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Jira": "simple-icons:jira"
+      }
+    },
+    {
+      "name": "ForUS",
+      "isActive": true,
+      "description": "A Forum for University of Science Students.",
+      "image": {
+        "url": "",
+        "position": "center",
+        "dark": ""
+      },
+      "highlights": [
+        "A comprehensive forum web application for HCMUS Student (ForUS) with role-based authorization, internal communication services, and moderation systems.  ",
+        "The user experience prioritizes a straightforward and snappy UI, along with fast page loading performance."
+      ],
+      "url": "https://github.com/minhvip08/ForUS-CS300",
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "React": "mdi:react",
+        "Node": "ri:nodejs-line",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github"      }
+    }
+  ]
+}
