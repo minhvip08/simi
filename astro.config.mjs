@@ -1,7 +1,8 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
-import astroIcon, icon from 'astro-icon';
+import astroIcon from 'astro-icon';
+import icon from "astro-icon";
 import playformCompress from "@playform/compress";
 
 // https://astro.build/config
