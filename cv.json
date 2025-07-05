@@ -102,6 +102,36 @@
     }
   ],
   "work": [
+        {
+      "name": "NEXON DEV VINA",
+      "position": "Embedded Software Engineer",
+      "location_type": "full-time",
+      "location": "Ho Chi Minh City",
+      "startDate": "2025-01-31",
+      "endDate": null,
+      "summary": "Currently working as the server side and Devops for Unreal Team.",
+      "highlights": [
+        "Integrate CI/CD pipelines for Unreal Engine projects, enhancing development efficiency and deployment speed."
+      ],
+      "responsibilities": [
+        "Engine and gameplay development using C++ and Blueprints.",
+        "Focus on CI/CD of Unreal Team.",
+        "Managing distributed build processes via Horde (.NET, gRPC, Redis, MongoDB) (Horde Build System). "
+      ],
+      "achievements": [
+        "Integrate Horde, Buildtool to."
+      ],
+      "skills": {
+        "C": "mdi:language-c",
+        "C++": "mdi:language-cpp",
+        "Linux": "simple-icons:linux",
+        "SQL": "simple-icons:mysql",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Shell": "simple-icons:shell",
+        "Jira": "simple-icons:jira"
+      }
+    },
     {
       "name": "BOSCH GLOBAL SOFTWARE TECHNOLOGIES COMPANY LIMITED",
       "position": "Embedded Software Engineer",
@@ -109,7 +139,7 @@
       "location": "Ho Chi Minh City",
       "url": "https://www.bosch.com.vn/our-company/bosch-in-vietnam/ho-chi-minh-city-rbvh/",
       "startDate": "2024-8-15",
-      "endDate": null,
+      "endDate": "2024-12-31",
       "summary": "Currently working as part of the Update Firmware Team, focusing on software development for car multimedia systems within Linux and Android environments.",
       "highlights": [
         "Enhanced internal workflow efficiency by 30%."
@@ -406,20 +436,18 @@
   ],
   "projects": [
     {
-      "name": "Cinematrix",
+      "name": "zkMonopoly",
       "image": {
       },
       "isActive": true,
-      "description": "A free media-sharing platform with robust streaming capabilities.",
+      "description": "A Graduate Thesis Project that using Zero-Knowledge Proofs and Multi-Party Computation to build a cryptographic platform.",
       "highlights": [
-        "A media-sharing platform with robust streaming capabilities. Media files are stored on a Backblaze S3-compatible cloud storage, cached, and served via the Cloudflare CDN.",
-        "The application was developed as a monolithic web application. "
+        "A cryptographic platform that uses Zero-Knowledge Proofs and Multi-Party Computation to build a secure and private online gaming platform.",
+        "The platform is designed to be scalable, secure, and easy to use, with a focus on privacy and security."
       ],
-      "url": "https://github.com/minhvip08/Cinematrix",
-      "github": "https://github.com/minhvip08/Cinematrix",
+      "url": "https://github.com/zkmonopoly/zkmonopoly",
+      "github": "https://github.com/zkmonopoly/zkmonopoly",
       "skills": {
-        "Java": "mdi:language-java",
-        "Spring": "simple-icons:spring",
         "HTML": "simple-icons:html5",
         "CSS": "ri:css3-fill",
         "JavaScript": "simple-icons:javascript",
