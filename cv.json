@@ -104,8 +104,8 @@
   "work": [
         {
       "name": "NEXON DEV VINA",
-      "position": "Embedded Software Engineer",
-      "location_type": "full-time",
+      "position": "Junior Server Game Developer",
+      "location_type": "Full-time",
       "location": "Ho Chi Minh City",
       "startDate": "2025-01-31",
       "endDate": null,
@@ -119,10 +119,9 @@
         "Managing distributed build processes via Horde (.NET, gRPC, Redis, MongoDB) (Horde Build System). "
       ],
       "achievements": [
-        "Integrate Horde, Buildtool to."
+        "Integrate Horde, Buildtool to Unreal project."
       ],
       "skills": {
-        "C": "mdi:language-c",
         "C++": "mdi:language-cpp",
         "Linux": "simple-icons:linux",
         "SQL": "simple-icons:mysql",
